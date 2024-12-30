@@ -10,4 +10,4 @@ registry.k8s.io/etcd:3.5.15-0
 registry.k8s.io/ingress-nginx/controller:v1.12.0-beta.0
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4
 docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
-
+docker.io/flannel/flannel:v0.26.0
